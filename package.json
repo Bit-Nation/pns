@@ -1,0 +1,23 @@
+{
+  "name": "pns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bit-Nation/pns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bit-Nation/pns/issues"
+  },
+  "homepage": "https://github.com/Bit-Nation/pns#readme",
+  "dependencies": {
+    "truffle": "^4.1.14"
+  }
+}
